@@ -1,6 +1,6 @@
 # Reasonable Engineering Manifesto
 
-## 1. I build, understand and improve reasonable systems.
+## 1. I understand, improve and occasionally build reasonable systems.
 
 1.1. Reasonable systems can be reasoned about.
 
