@@ -76,4 +76,4 @@
 
 4.2. Should building be placed before understanding and improving?
 
-[Reasonable Engineering Manifesto](https://github.com/pirapira/reasonable-manifesto) © 2025 by [Yoichi Hirai](https://yoichihirai.com) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+[Reasonable Engineering Manifesto](https://github.com/pirapira/reasonable-manifesto) © 2025, 2026 by [Yoichi Hirai](https://yoichihirai.com) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
