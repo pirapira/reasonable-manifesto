@@ -36,6 +36,12 @@
 
 1.1.4.2. When the implementation is too big to fit in my mind, some bookkeeping mechanism is needed to keep track of the gab between the implementation and the specification.
 
+1.2. I understand reasonable systems.
+
+1.3. I improve reasonable systems.
+
+1.4. I occasionally build reasonable systems.
+
 ## 2. Reasoning tools have enabled us to engineer reasonable systems that are practically useful.
 
 2.1. Reasoning tools have enabled us to work on big implementations, as long as their behavior is defined for the reasoning tools.
