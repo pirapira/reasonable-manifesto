@@ -36,10 +36,6 @@
 
 1.1.4.2. When the implementation is too big to fit in my mind, some bookkeeping mechanism is needed to keep track of the gab between the implementation and the specification.
 
-1.2. For me to improve systems built by others, sometimes certain legal arrangements are needed.
-
-1.2.1. Especially for me to publish the improved systems.
-
 ## 2. Reasoning tools have enabled us to engineer reasonable systems that are practically useful.
 
 2.1. Reasoning tools have enabled us to work on big implementations, as long as their behavior is defined for the reasoning tools.
