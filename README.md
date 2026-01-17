@@ -4,31 +4,37 @@
 
 1.1. Reasonable systems can be reasoned about.
 
-1.1.1. Reasonable systems require simple and accurate specification.
+1.1.1. Reasoning in this manifesto means deductive reasoning.
 
-1.1.1.1. If the specification of a system doesn't fit in my mind, the system is not reasonable for me.
+1.1.1.1. Deductive reasoning is opposed to inductive reasoning.
 
-1.1.1.1.1. Because the specification is an approximation of my wants in my mind.
+1.1.1.1.1. Theorem proving toolmakers use the word induction for mathematical induction, which is a form of deductive reasoning.
 
-1.1.1.1.2. Since a specification approximates my wants in my mind, it can be made to fit in my mind.
+1.1.2. Reasonable systems require simple and accurate specification.
 
-1.1.1.2. The standard for a reasonable specification is personal.
+1.1.2.1. If the specification of a system doesn't fit in my mind, the system is not reasonable for me.
 
-1.1.1.2.1. Therefore, I do not use the word we in this manifesto. I don't know how to tell whether a specification fits in our minds. I might be able to tell whether a specification fits in my mind.
+1.1.2.1.1. Because the specification is an approximation of my wants in my mind.
 
-1.1.2. Reasonable systems require transparent implementation.
+1.1.2.1.2. Since a specification approximates my wants in my mind, it can be made to fit in my mind.
 
-1.1.2.1. Reasonable systems are implemented with languages and tools that have reasonable specifications.
+1.1.2.2. The standard for a reasonable specification is personal.
 
-1.1.3. The implementation of reasonable systems can be too big to fit in my mind.
+1.1.2.2.1. Therefore, I do not use the word we in this manifesto. I don't know how to tell whether a specification fits in our minds. I might be able to tell whether a specification fits in my mind.
 
-1.1.3.1. Because the implementation
+1.1.3. Reasonable systems require transparent implementation.
 
-1.1.3.1.1. is not an approximation, and
+1.1.3.1. Reasonable systems are implemented with languages and tools that have reasonable specifications.
 
-1.1.3.1.2. does not belong in my mind either.
+1.1.4. The implementation of reasonable systems can be too big to fit in my mind.
 
-1.1.3.2. When the implementation is too big to fit in my mind, some bookkeeping mechanism is needed to keep track of the gab between the implementation and the specification.
+1.1.4.1. Because the implementation
+
+1.1.4.1.1. is not an approximation, and
+
+1.1.4.1.2. does not belong in my mind either.
+
+1.1.4.2. When the implementation is too big to fit in my mind, some bookkeeping mechanism is needed to keep track of the gab between the implementation and the specification.
 
 1.2. For me to improve systems built by others, sometimes certain legal arrangements are needed.
 
