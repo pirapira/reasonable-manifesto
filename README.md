@@ -38,6 +38,12 @@
 
 1.2. I understand reasonable systems.
 
+1.2.1. For me to understand a reasonable system, I need to have a specification of the system in my mind, an implementation of the system, and an explanation why the implementation satisfies the specification of the system.
+
+1.2.1.1. The specification of the system in my mind can differ depending on what aspects of the system I am interested in at the moment.
+
+1.2.1.1.1. The specification of the systems is not unique and is not limited to the one(s) that come from the authors of the system.
+
 1.3. I improve reasonable systems.
 
 1.4. I occasionally build reasonable systems.
