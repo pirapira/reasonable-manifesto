@@ -76,4 +76,4 @@ Reasonable Engineering Manifesto
 
 Reasonable Engineering Manifesto © 2025, 2026 by Yoichi Hirai (https://yoichihirai.com)
 available at https://github.com/pirapira/reasonable-manifesto 
-licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
