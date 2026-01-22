@@ -1,6 +1,6 @@
-# Reasonable Engineering Manifesto
+Reasonable Engineering Manifesto
 
-## 1. I understand, improve and occasionally build reasonable systems.
+1. I understand, improve and occasionally build reasonable systems.
 
 1.1. Reasonable systems can be reasoned about.
 
@@ -48,13 +48,13 @@
 
 1.4. I occasionally build reasonable systems.
 
-## 2. Reasoning tools have enabled us to engineer reasonable systems that are practically useful.
+2. Reasoning tools have enabled us to engineer reasonable systems that are practically useful.
 
 2.1. Reasoning tools have enabled us to work on big implementations, as long as their behavior is defined for the reasoning tools.
 
 2.2. Reasoning tools do not replace my understanding.
 
-## 3. Part of mathematics is reasonable.
+3. Part of mathematics is reasonable.
 
 3.1. The standard of reasonable systems can be applied to mathematical theorems.
 
@@ -68,12 +68,12 @@
 
 3.3.1. Therefore I don't behave like some mathematicians, who are only willing to work with theorems whose proofs they understand.
 
-## 4. Criticism
+4. Criticism
 
 4.1. Is this manifesto reasonable?
 
-4.1.1. Is Markdown a reasonable format?
-
 4.2. Should building be placed before understanding and improving?
 
-[Reasonable Engineering Manifesto](https://github.com/pirapira/reasonable-manifesto) © 2025, 2026 by [Yoichi Hirai](https://yoichihirai.com) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Reasonable Engineering Manifesto © 2025, 2026 by Yoichi Hirai (https://yoichihirai.com)
+available at https://github.com/pirapira/reasonable-manifesto 
+licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
